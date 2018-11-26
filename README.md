@@ -1,3 +1,3 @@
-# JOST - Java based Open Storage Tools
+# JOST - Java Open Storage Toolkit
 
 Jost is an open source storage toolkit for the Java platform.
